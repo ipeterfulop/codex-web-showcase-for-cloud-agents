@@ -1,0 +1,10 @@
+ Order ID , Order Date , Customer Name , Amount Paid , Currency , Status
+1001,2024-01-05, Alice Johnson ,"$1,200.00",USD, PAID
+1001,01/05/2024,alice johnson,"$1,200.00",USD,paid
+1002,2024/02/14, Bob Smith ,USD 45,,Pending 
+1003,March 3 2024, Carla Gomez ,"1,299.99",USD, SHIPPED 
+,2024-03-04, Missing Id ,"$10.00",USD,Paid
+1005,not-a-date,Dana Miles,,USD,Pending
+1006,2024-04-01, Erin O'Neil ,"€89,50",EUR,Completed 
+1007,04-15-2024, Frank Lee , 72 ,usd, CANCELLED 
+1008,2024-04-20,  Grace Kim  ,"$0.00",USD,Refunded

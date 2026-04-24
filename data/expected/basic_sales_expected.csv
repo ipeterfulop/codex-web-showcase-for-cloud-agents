@@ -1,0 +1,2 @@
+order_id,order_date,customer_name,amount,currency,status,source_file
+A-001,2024-01-01,Alice Example,10.50,USD,paid,basic_sales_input.csv

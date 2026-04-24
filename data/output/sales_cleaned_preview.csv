@@ -1,0 +1,10 @@
+order_id,order_date,customer_name,amount,currency,status,source_file
+1001,2024-01-05,Alice Johnson,"$1,200.00",USD,PAID,sales_messy_sample.csv
+1001,01/05/2024,alice johnson,"$1,200.00",USD,paid,sales_messy_sample.csv
+1002,2024/02/14,Bob Smith,USD 45,,Pending,sales_messy_sample.csv
+1003,March 3 2024,Carla Gomez,"1,299.99",USD,SHIPPED,sales_messy_sample.csv
+,2024-03-04,Missing Id,$10.00,USD,Paid,sales_messy_sample.csv
+1005,not-a-date,Dana Miles,,USD,Pending,sales_messy_sample.csv
+1006,2024-04-01,Erin O'Neil,"€89,50",EUR,Completed,sales_messy_sample.csv
+1007,04-15-2024,Frank Lee,72,usd,CANCELLED,sales_messy_sample.csv
+1008,2024-04-20,Grace Kim,$0.00,USD,Refunded,sales_messy_sample.csv
